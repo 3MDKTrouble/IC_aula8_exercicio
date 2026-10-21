@@ -1,0 +1,23 @@
+flowchart LR
+    A["Start Game"] --> B2("Choose Save File")
+    C{"Enter Online Mode"} --> D["Enter Online Singleplayer"] & E["Enter Public Lobby"] & F["Create Closed Lobby"]
+    E --> G["Arrive ingame"]
+    B2 --> C
+    G --> G2["Begin any quest at the Quest Counter NPC"] & G3["Has the story been completed yet?"] & G4["Go out into the open world on an expedition to find monsters, crafting materials, etc."]
+    F --> G
+    D --> G
+    G3 --> n1["Yes"] & n3["No"]
+    n3 --> n2["Follow the Main Story Quests, accepting them from NPCs and the Quest Counter"]
+    n1 --> G2 & G4 & n5["Have all sidequests been completed?"]
+    G4 --> n4["Return whenever possible or want to, making sure to restock on items and checking your current equipment"]
+    n2 --> n4 & G3
+    G2 --> n4
+    n5 --> n6["Yes"] & n7["No"]
+    n7 --> n8["Opt to continue or finish them"]
+    n8 --> n5
+    n6 --> G2 & G4
+    n4 --> n9["Is there anything else you wish to do ingame?"]
+    n9 --> n10["Yes"] & n11["No"]
+    n11 --> n12["You can save the game and log out whenever you want"]
+    n10 --> n13["You may continue playing for as long as you want"]
+    n13 --> G

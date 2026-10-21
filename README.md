@@ -1,6 +1,7 @@
 # Monster Hunter Wilds
 
 !["Monster Hunter Wilds Title Card"](https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/monsterhunterwilds/16x9_MonsterHunterWilds_image1600w.jpg)
+##### Monster Hunter Wilds Store Page: <https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/>
 
 ## Introdução Geral
 
@@ -33,3 +34,4 @@ Seguindo a história, é descoberto que o Nata veio de uma vila, chamada *Sild*,
 
 ![Ruins of Wyveria](https://monsterhunterwiki.org/images/9/9b/MHWilds-Ruins_of_Wyveria_Screenshot_001.webp)
 ##### As ruinas da civilização de Wyveria, nomeados no jogo como *Ruins of Wyveria*
+

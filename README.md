@@ -1,5 +1,7 @@
 # Monster Hunter Wilds
 
+!["Monster Hunter Wilds Title Card"](https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/monsterhunterwilds/16x9_MonsterHunterWilds_image1600w.jpg)
+
 ## Introdução Geral
 
 Monster Hunter Wilds é um jogo de zona aberta (não mundo aberto).

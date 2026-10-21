@@ -26,7 +26,7 @@ A história começa com o nosso personagem customizável mais o seu esquadrão, 
 !["Fabius, Guild Leader"](https://lootlevelchill.com/wp-content/uploads/2025/03/MHW-Weapon-List-Main.jpg)
 ##### Fabius, um dos líderes da *Guild* de caçadores, e a pessoa em carga da missão de exploração nas *Forbidden Lands*
 
-!["Nata, child from Sild"](https://monsterhunterwiki.org/images/9/90/MHWilds-Nata_Render_001.webp)
+!["Nata, child from Sild"](https://static0.fextralifeimages.com/file/monsterhunterwilds/thumb/d/d0/Latest_information_19_monster_hunter_wilds_wiki_guide-min-min.png/300px-Latest_information_19_monster_hunter_wilds_wiki_guide-min-min.png)
 ##### Nata, a criança encontrada e resgatada no deserto
 
 Seguindo a história, é descoberto que o Nata veio de uma vila, chamada *Sild*, nas ruinas de uma civilização extinta, e que a mesma foi atacada por *Arkveld*, o monstro que os civís aterrorizados nomearam *The White Wraith*. Rápidamente, o nosso objetivo torna-se em derrotar *Arkveld*, e descobrir que mais segredos estarão à nossa espera, em nome da descoberta.

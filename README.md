@@ -18,6 +18,8 @@ Existe ao total cerca de 300 armas totais se contar essas *trees* em questão.
 Estas 14 armas são: *Greatsword*, *Long Sword*, *Sword & Shield*, *Dual Blades*, *Hammer*, *Hunting Horn*, *Lance*, *Gunlance*, *Switchaxe*, *Charge Blade*, *Insect Glaive*, *Light Bowgun*, *Heavy Bowgun* e *Bow*.
 A armadura consiste de 5 peças: capacete, peito, luvas, cinto e botas. Todos os monstros têm conjuntos únicos, e uma função chamada decorações, que permite o jogador colocar bónus mais pequenos mas importantes para continuar o avanço e melhoria do equipamento.
 
+##### Monster Hunter Wilds, lista de equipamento e guia (não oficial): <https://monsterhunterwilds.wiki.fextralife.com/Armor>
+
 !["Bale Armor Set + Shadowbringer"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScy2Esydl1UhvndPfD5-ijsa-wY4A8eDB0kJ6oe5DeTi8vc9VFjfJq3Q&s=10)
 ##### *Gearset* Bale, e *Greatsword* Shadowbringer, ambas introduzidas num *crossover* com *Final Fantasy XIV*
 

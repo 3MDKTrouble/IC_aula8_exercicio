@@ -1,0 +1,16 @@
+flowchart LR
+    A["What was chosen?"] --> B2("Any quest") & n1["Story quest"] & n2["Expedition"]
+    B2 --> n3["Begin or continue the quest and complete the objective(s)"]
+    n1 --> n4["Follow the objectives initially granted to the player"]
+    n2 --> n5["Choose whether to find materials, simply explore or hunt any monsters that are found in the wild"]
+    n3 -- Player fainted --> n6["Is there any faints left?"]
+    n6 --> n7["No"] & n9["Yes"]
+    n7 --> n8["Quest failed... returning to base camp"]
+    n9 --> n10["Respawn..."]
+    n4 -- Fainted during story quest --> n6
+    n10 --> n3
+    n5 -- Player fainted --> n11["No faint limit in expeditions, returning to camp"]
+    n11 --> n5
+    n8 --> A
+
+    n3@{ shape: rect}

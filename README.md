@@ -19,3 +19,17 @@ A armadura consiste de 5 peças: capacete, peito, luvas, cinto e botas. Todos os
 
 !["Bale Armor Set + Shadowbringer"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScy2Esydl1UhvndPfD5-ijsa-wY4A8eDB0kJ6oe5DeTi8vc9VFjfJq3Q&s=10)
 ##### *Gearset* Bale, e *Greatsword* Shadowbringer, ambas introduzidas num *crossover* com *Final Fantasy XIV*
+
+## História principal
+A história começa com o nosso personagem customizável mais o seu esquadrão, chamados *Avis Unit*, um esquadrão no meio de outros vários, numa missão para explorar apenas o que é conhecido como as "Forbidden Lands", localizadas para o lade leste de onde os outros jogos acontencem. Uma região assumida como não tendo população, surpreende todos quando encontram uma criança inconsciente no deserto, adicionando a responsabilidade à *Avis Unit* the prosseguir na missão que lhes foi dada de explorar as *Forbidden Lands*, enquanto ao mesmo tempo procuram de onde a criança, chamado Nata, veio e o porquê de estar no meio do deserto. Devido a esta mudança súbita de eventos, Fabius, um líder da *Guild*, é colocado como operador e chefe principal da missão para a descoberta das *Forbidden Lands*.
+
+!["Fabius, Guild Leader"](https://lootlevelchill.com/wp-content/uploads/2025/03/MHW-Weapon-List-Main.jpg)
+##### Fabius, um dos líderes da *Guild* de caçadores, e a pessoa em carga da missão de exploração nas *Forbidden Lands*
+
+!["Nata, child from Sild"](https://monsterhunterwiki.org/images/9/90/MHWilds-Nata_Render_001.webp)
+##### Nata, a criança encontrada e resgatada no deserto
+
+Seguindo a história, é descoberto que o Nata veio de uma vila, chamada *Sild*, nas ruinas de uma civilização extinta, e que a mesma foi atacada por *Arkveld*, o monstro que os civís aterrorizados nomearam *The White Wraith*. Rápidamente, o nosso objetivo torna-se em derrotar *Arkveld*, e descobrir que mais segredos estarão à nossa espera, em nome da descoberta.
+
+![Ruins of Wyveria](https://monsterhunterwiki.org/images/9/9b/MHWilds-Ruins_of_Wyveria_Screenshot_001.webp)
+##### As ruinas da civilização de Wyveria, nomeados no jogo como *Ruins of Wyveria*
